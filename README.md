@@ -1,4 +1,4 @@
-[TOC}
+[TOC]
 
 # Taxonomic Identification of Bile Salt Hydrolase-Encoding Lactobacilli: Modulate Enterohepatic Bile Acid Profile
 This is the code for multiple omics analysis and visualization in the article by "Taxonomic Identification of Bile Salt Hydrolase-Encoding Lactobacilli: Modulate Enterohepatic Bile Acid Profile"
