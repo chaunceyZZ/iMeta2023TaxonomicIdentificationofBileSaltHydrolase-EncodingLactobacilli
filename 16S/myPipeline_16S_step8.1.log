@@ -1,0 +1,21 @@
+56000
+8.1
+Traceback (most recent call last):
+  File "/usr/local/bin/multiple_rarefactions.py", line 106, in <module>
+    main()
+  File "/usr/local/bin/multiple_rarefactions.py", line 102, in main
+    subsample_f=subsample_f)
+  File "/usr/local/lib/python2.7/dist-packages/qiime/rarefaction.py", line 116, in rarefy_to_files
+    subsample_f=subsample_f)
+  File "/usr/local/lib/python2.7/dist-packages/qiime/rarefaction.py", line 178, in get_rare_data
+    inf)
+  File "/usr/local/lib/python2.7/dist-packages/qiime/filter.py", line 556, in filter_samples_from_otu_table
+    return otu_table.filter(filter_f, axis='sample', inplace=False)
+  File "/usr/local/lib/python2.7/dist-packages/biom/table.py", line 1941, in filter
+    errcheck(table)
+  File "/usr/local/lib/python2.7/dist-packages/biom/err.py", line 472, in errcheck
+    raise ret
+biom.exception.TableException: Empty table!
+multiple_rarefactions.py complete!
+alpha_diversity.py com!
+11_collated_alpha

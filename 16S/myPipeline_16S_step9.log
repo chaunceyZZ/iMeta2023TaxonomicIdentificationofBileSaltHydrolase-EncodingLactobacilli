@@ -1,0 +1,26 @@
+Alpha-diversity
+Step 14.1 Calculate GOOD COVERAGE (Alpha-diversity)!
+Step 14.2 Calculate Shanno Index (Alpha-diversity)!
+Step 14.3 Calculate Chao1 (Alpha-diversity)!
+Step 14.4 Calculate observed_species (Alpha-diversity)!
+Step 14.5 Calculate simpson Index (Alpha-diversity)!
+Beta-diversity
+Step 14.6 Calculate bray_curtis Index  (Beta-diversity)!
+/usr/local/lib/python2.7/dist-packages/numpy/core/fromnumeric.py:2507: VisibleDeprecationWarning: `rank` is deprecated; use the `ndim` attribute or function instead. To find the rank of a matrix see `numpy.linalg.matrix_rank`.
+  VisibleDeprecationWarning)
+Step 14.7 Calculate bray_curtis_magurran Index  (Beta-diversity)!
+/usr/local/lib/python2.7/dist-packages/numpy/core/fromnumeric.py:2507: VisibleDeprecationWarning: `rank` is deprecated; use the `ndim` attribute or function instead. To find the rank of a matrix see `numpy.linalg.matrix_rank`.
+  VisibleDeprecationWarning)
+Step 14.8 Calculate binary_jaccard Index  (Beta-diversity)!
+/usr/local/lib/python2.7/dist-packages/numpy/core/fromnumeric.py:2507: VisibleDeprecationWarning: `rank` is deprecated; use the `ndim` attribute or function instead. To find the rank of a matrix see `numpy.linalg.matrix_rank`.
+  VisibleDeprecationWarning)
+Step 14.9 Calculate abund_jaccard Index  (Beta-diversity)!
+/usr/local/lib/python2.7/dist-packages/numpy/core/fromnumeric.py:2507: VisibleDeprecationWarning: `rank` is deprecated; use the `ndim` attribute or function instead. To find the rank of a matrix see `numpy.linalg.matrix_rank`.
+  VisibleDeprecationWarning)
+Step 14.10 Calculate spearman_approx Index  (Beta-diversity)!
+/usr/local/lib/python2.7/dist-packages/numpy/core/fromnumeric.py:2507: VisibleDeprecationWarning: `rank` is deprecated; use the `ndim` attribute or function instead. To find the rank of a matrix see `numpy.linalg.matrix_rank`.
+  VisibleDeprecationWarning)
+Step 14.11 Calculate euclidean Index  (Beta-diversity)!
+/usr/local/lib/python2.7/dist-packages/numpy/core/fromnumeric.py:2507: VisibleDeprecationWarning: `rank` is deprecated; use the `ndim` attribute or function instead. To find the rank of a matrix see `numpy.linalg.matrix_rank`.
+  VisibleDeprecationWarning)
+complete!

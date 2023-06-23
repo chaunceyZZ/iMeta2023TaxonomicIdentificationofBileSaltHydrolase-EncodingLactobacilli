@@ -1,0 +1,14 @@
+12_alphaRarefactionPlot
+Traceback (most recent call last):
+  File "/usr/local/bin/make_rarefaction_plots.py", line 229, in <module>
+    main()
+  File "/usr/local/bin/make_rarefaction_plots.py", line 219, in main
+    generate_average_tables=generate_average_tables)
+  File "/usr/local/lib/python2.7/dist-packages/qiime/make_rarefaction_plots.py", line 484, in make_averages
+    groups_and_colors = list(groups_and_colors)
+  File "/usr/local/lib/python2.7/dist-packages/qiime/colors.py", line 218, in iter_color_groups
+    groups = group_by_field(mapping, col_name)
+  File "/usr/local/lib/python2.7/dist-packages/qiime/parse.py", line 196, in group_by_field
+    (name, table[0]))
+ValueError: Couldn't find name SampleID       Group in headers: ['S1', 'Control']
+12_alphaRarefactionPlot
